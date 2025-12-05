@@ -1,5 +1,5 @@
 window.addEventListener("DOMContentLoaded", () => {
-  const apiID = "1CtXwFm9JJZJ8UbVJLZqWCQKLj1TR2sttuCIAfgCiZfw";
+  const apiID = "10ttOA2DdBUwG3lfQHrDXr47tYR7LR_hR4vxtiJycTMI";
   const apiURL = `https://opensheet.elk.sh/${apiID}/Trang%20tính1`;
 
   const charts = {};
